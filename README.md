@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hey! 👋
+
+- 🏈 I'm currently working on CollegeFootballData.com, which is one of the most popular websites for college football data and analytics!
+- 👉 CFBD REST API v2 is now available at APINext.CollegeFootballData.com
+- 👉 The experimental CFBD GraphQL API is now available at GraphQL.CollegeFootballData.com
+- 🧰 Most of my work is in TypeScript and Python and can be found in the [CFBD GitHub org](https://github.com/CFBD)
+- ✍ I sometimes write about CFB analytics on the [CFBD Blog](https://blog.collegefootballdata.com/)
+- 👨‍🔬 For my day job, I am a Principal Architect  for Myriad Genetics, where I build digital infrastructure using serverless architecture in AWS
 
 <!--
 **BlueSCar/BlueSCar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
